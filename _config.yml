@@ -41,8 +41,6 @@ footer:
 social:
   - title: linkedin
     url: www.linkedin.com/in/wluangphairin
-  - title: facebook
-    url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: github
